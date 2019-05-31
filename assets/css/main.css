@@ -149,6 +149,12 @@ hr {
     padding: 3px;
 }
 
+#f i1 {
+    font-size: 16px;
+    color: #fff;
+    padding: 3px;
+}
+
 #f p {
     font-size: 20px;
     color: #f2f2f2;
@@ -316,4 +322,8 @@ hr {
     -ms-transition: all .1s ease-in-out;
     -o-transition: all .1s ease-in-out;
     transition: all .1s ease-in-out;
+}
+
+.social-icon{
+	margin-top: 20px;
 }
